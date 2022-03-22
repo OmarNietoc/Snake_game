@@ -11,7 +11,7 @@ lives = 3
 
 #Window
 screen = turtle.Screen()
-screen.title("Dylan Snake")
+screen.title("Snakes Game")
 screen.bgcolor("black")
 screen.setup(width = 700, height = 700)
 screen.tracer(0)
